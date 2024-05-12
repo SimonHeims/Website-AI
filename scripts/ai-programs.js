@@ -18,71 +18,41 @@ export const AIPrograms = [
         soort: 'IT'
     },
     {
-        foto: 'Slidesgo.jpg',
-        titel: 'Slidesgo',
-        info: 'SlidesGo is een online platform dat gratis professioneel ontworpen presentatiesjablonen biedt voor gebruik in PowerPoint, Google Slides en Keynote, waardoor gebruikers snel aantrekkelijke presentaties kunnen maken zonder dat ze vanaf nul hoeven te beginnen.',
+        foto: 'vectra.JPG',
+        titel: 'Vectra AI',
+        info: 'Het Threat Detection and Response Platform van Vectra AI beschermt uw bedrijf tegen cyberaanvallen door aanvallers in realtime te detecteren en onmiddellijk actie te ondernemen.',
+        soort: 'Security'
+    },
+    {
+        foto: 'scienaptic.png',
+        titel: 'Scienaptic AI',
+        info: 'Scienaptic AI is een bedrijf dat geavanceerde AI-oplossingen ontwikkelt voor data-analyse, met een focus op kredietrisicobeheer en fraudepreventie. Het maakt gebruik van machine learning en data science-technieken om inzichten te bieden die financiële instellingen helpen bij het nemen van beslissingen op basis van data',
+        soort: 'Financiëel'
+    },
+    {
+        foto: 'plus.jpg',
+        titel: 'Plus AI',
+        info: "Stop met het maken van presentaties op de oude manier. Maak, bewerk en ontwerp dia's in seconden met Plus AI, de beste AI-presentatiemaker voor Google Slides.",
         soort: 'PowerPoint'
+    },
+    {
+        foto: 'wordvice.png',
+        titel: 'WordVice AI',
+        info: 'Wordvice AI is jouw ultieme AI schrijfeditor - ontworpen om auteurs in alle vakgebieden te voorzien van geavanceerde AI-technologie om hun schrijfinspanningen te verbeteren.',
+        soort: 'Word'
+    },
+    {
+        foto: 'copilot.png',
+        titel: 'Copilot',
+        info: 'Copilot is een AI-codeerassistent van GitHub die ontwikkelaars helpt door suggesties te bieden en codefragmenten te genereren binnen hun ontwikkelomgeving, waardoor de productiviteit wordt verhoogd en de codekwaliteit wordt verbeterd.',
+        soort: 'Algemeen'
+    },
+    {
+        foto: 'gptexcel.png',
+        titel: 'GPT Excel',
+        info: 'GPT-Excel is een AI-tool die natuurlijke taal gebruikt om Excel-gebruikers te helpen bij formules, analyses en rapportage, waardoor efficiëntie wordt verhoogd en complexe taken worden vereenvoudigd.',
+        soort: 'Excel'
     }/*,
-    {
-        foto: '',
-        titel: '',
-        info: '',
-        soort: ''
-    },
-    {
-        foto: '',
-        titel: '',
-        info: '',
-        soort: ''
-    },
-    {
-        foto: '',
-        titel: '',
-        info: '',
-        soort: ''
-    },
-    {
-        foto: '',
-        titel: '',
-        info: '',
-        soort: ''
-    },
-    {
-        foto: '',
-        titel: '',
-        info: '',
-        soort: ''
-    },
-    {
-        foto: '',
-        titel: '',
-        info: '',
-        soort: ''
-    },
-    {
-        foto: '',
-        titel: '',
-        info: '',
-        soort: ''
-    },
-    {
-        foto: '',
-        titel: '',
-        info: '',
-        soort: ''
-    },
-    {
-        foto: '',
-        titel: '',
-        info: '',
-        soort: ''
-    },
-    {
-        foto: '',
-        titel: '',
-        info: '',
-        soort: ''
-    },
     {
         foto: '',
         titel: '',
