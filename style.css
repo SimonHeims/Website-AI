@@ -145,7 +145,6 @@ footer a:hover {
 /* About pagina*/
 #Geschiedenis {
   padding: 5rem 9rem 9rem 9rem;
-  background-color: white;
 }
 
 .title {
@@ -281,9 +280,6 @@ textarea {
 @media screen and (max-width: 768px) {
   .nav-links {
     flex-direction: column;
-    /* position: absolute;
-    top: 60px;
-    left: 0; */
     width: 100%;
     background-color: #4b4b4b;
     padding: 20px 0;
@@ -331,15 +327,16 @@ textarea {
 
   #contentHome {
     margin: 100px auto;
+    padding: 0 2rem;
   }
 
   #Geschiedenis {
-    padding: 5rem;
+    padding: 2rem 5rem;
   }
 
   .title {
-    padding: 4rem 0;
-    font-size: 7rem;
+    padding: 1rem 0;
+    font-size: 3.5rem;
   }
 
   h2 {
@@ -387,11 +384,11 @@ textarea {
 
   .title {
     padding: 2rem 0;
-    font-size: 5rem;
+    font-size: 2rem;
   }
 
   h2 {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 
   p {
@@ -401,5 +398,9 @@ textarea {
   .container {
     max-width: 300px;
     margin: 30px auto;
+  }
+
+  .soorten {
+    grid-template-columns: 1fr;
   }
 }
