@@ -19,10 +19,10 @@ header {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.logo {
-  font-size: 1.8em;
-  margin-left: 20px;
-  text-transform: uppercase;
+header img{
+  width: 100px;
+  height: 100px;
+  padding-left:3rem ;
 }
 
 .nav-links {
@@ -285,6 +285,9 @@ textarea {
     padding: 20px 0;
     z-index: 999;
   }
+  img.logo {
+    padding: 0;
+  }
 
   header {
     display: flex;
@@ -356,7 +359,6 @@ textarea {
   .logo {
     font-size: 1.2em;
   }
-
   .search-bar {
     max-width: 250px;
   }
