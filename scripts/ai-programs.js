@@ -9,7 +9,7 @@ export const AIPrograms = [
         foto: 'albert.png',
         titel: 'albert',
         info: 'Albert is een app die budgettering, spaaradvies, investeringsbegeleiding en zelfs factuuronderhandeling biedt, allemaal aangedreven door kunstmatige intelligentie.',
-        soort: 'Financiëel'
+        soort: 'Financieel'
     },
     {
         foto: 'Phind.jpeg',
@@ -27,7 +27,7 @@ export const AIPrograms = [
         foto: 'scienaptic.png',
         titel: 'Scienaptic AI',
         info: 'Scienaptic AI is een bedrijf dat geavanceerde AI-oplossingen ontwikkelt voor data-analyse, met een focus op kredietrisicobeheer en fraudepreventie. Het maakt gebruik van machine learning en data science-technieken om inzichten te bieden die financiële instellingen helpen bij het nemen van beslissingen op basis van data',
-        soort: 'Financiëel'
+        soort: 'Financieel'
     },
     {
         foto: 'plus.jpg',
